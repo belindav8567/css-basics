@@ -47,18 +47,22 @@ code {
     color: green;
     font-style: italic
 }
-.snippet{
+
+.snippet {
     background-color: lightgray;
 }
-a:link{
-    color:green;
-}
-a:visited{
-    color:black;
-}
-a:hover{
-    color:red;
-}
-a:active{
-    color:blue;
-}
+
+
+    a:link {
+        color: #008000;
+    }
+    a:visited {
+        color: #000000;
+    }
+    a:hover {
+        color: #ff0000;
+    }
+    a:active {
+        color: #0000ff;
+    }
+
